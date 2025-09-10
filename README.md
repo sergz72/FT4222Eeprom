@@ -1,4 +1,4 @@
-# FT2222Eeprom
-FT2222 eeprom programmer
+# FT4222Eeprom
+FT4222 eeprom programmer
 
-Uses ft2222 library
+Uses ft4222 library
